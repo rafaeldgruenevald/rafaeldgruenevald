@@ -3,11 +3,11 @@
 
 - 🏫 No presente momento realizo meu ensino médio na [Fundação Escola Técnica liberato Salzano Vieira da Cunha](https://www.liberato.com.br/)
 
-- 🌱 Atualmente estou aprendendo **Rust**
-
 - 📚 Realizo um ensino técnico no [Colégio Sinodal Progresso](https://www.sinodalprogresso.com.br/)
 
 - 🤝 Sou colaborador no desenvolvimento do site da [SAMPE Brasil](https://www.sampebrasil.org/)
+
+- 🌱 Atualmente estou aprendendo **Rust**
 
 - 📫 Me contate no email **rafaeldgruenevald@proton.me**
 
