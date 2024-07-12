@@ -7,7 +7,7 @@
 
 - 🤝 Sou colaborador no desenvolvimento do site da [SAMPE Brasil](https://www.sampebrasil.org/)
 
-- 🌱 Atualmente estou aprendendo **Rust**
+- 🌱 Atualmente estou aprendendo **Go**
 
 - 📫 Me contate no email **rafaeldgruenevald@proton.me**
 
